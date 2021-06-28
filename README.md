@@ -3,7 +3,7 @@
 ### I'm a full stack developer and video game enthusiast.
 
 - 😄 Pronouns: He/him/his.
-- 🔭 I am currently learning more about algorithms optimization.
+- 🔭 I am currently learning Algorithms and Event Source.
 - 🧠 Constantly learning.
 
 ### 💻 Technology Stack 🛠:
