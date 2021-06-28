@@ -3,7 +3,8 @@
 ### I'm a full stack developer and video game enthusiast.
 
 - 😄 Pronouns: He/him/his.
-- 🔭 I am currently learning Algorithms and Event Source.
+- 🥇 Competitive Programmer: [5⭐] at [hackerrank/ariellourenco](https://www.hackerrank.com/ariellourenco)
+- 🌱 I am currently updating the [Microsoft CQRS Journey](https://github.com/ariellourenco/cqrs) in my spare time.
 - 🧠 Constantly learning.
 
 ### 💻 Technology Stack 🛠:
@@ -33,4 +34,4 @@
 
 [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 
-[linkedin]: https://www.linkedin.com/in/ariellourenco/
+[linkedin]: https://linkedin.com/in/ariellourenco/
