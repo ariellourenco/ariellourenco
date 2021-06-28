@@ -2,9 +2,8 @@
 
 ### I'm a full stack developer and video game enthusiast.
 
-- 😄 Pronouns: He/him/his
-- 🔭 I’m currently working for [Planet Payment]()
-- 🎮 I'm currently studying algorithms in my spare time to start my master degree sometime soon.
+- 😄 Pronouns: He/him/his.
+- 🔭 I am currently learning more about algorithms optimization.
 - 🧠 Constantly learning.
 
 ### 💻 Technology Stack 🛠:
