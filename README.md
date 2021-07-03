@@ -4,7 +4,7 @@
 
 - 😄 Pronouns: He/him/his.
 - 🥇 Competitive Programmer: [5⭐] at [hackerrank/ariellourenco](https://www.hackerrank.com/ariellourenco)
-- 🌱 I am currently updating the [Microsoft CQRS Journey](https://github.com/ariellourenco/cqrs) in my spare time.
+- 🌱 I am currently playing with the [Microsoft CQRS Journey](https://github.com/ariellourenco/cqrs) in my spare time.
 - 🧠 Constantly learning.
 
 ### 💻 Technology Stack 🛠:
